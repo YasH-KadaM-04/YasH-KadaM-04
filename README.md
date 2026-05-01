@@ -3,9 +3,13 @@
 
 ---
 
-🌱 I’m currently learning: FullStack Developement
-💻 I’m working on: Web Development Projects  
+🌱 I’m currently learning: Full Stack Development (HTML, CSS, JavaScript), DSA in Java  
+💻 I’m working on: Web Development Projects & improving problem-solving skills  
+🎯 Goal: To secure a Software Developmentjob  
+🚀 Interests: Full Stack Development, Machine Learning (future goal)  
+📚 Currently exploring: Git, GitHub, APIs, and real-world projects  
 📫 Reach me: yashkadam472@gmail.com  
+⚡ Fun fact: I enjoy playing chess and building things from scratch  
 
 ---
 
