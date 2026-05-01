@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm YasH kadam</h1>
+<h1 align="center">Hi 👋, I'm YasH KadaM</h1>
 <h3 align="center">A Passionate Developer from India 🇮🇳</h3>
 
 ---
 
-🌱 I’m currently learning: Full Stack Development (HTML, CSS, JavaScript), DSA in Java  
+🌱 I’m currently learning: Full Stack Development , DSA in Java  
 💻 I’m working on: Web Development Projects & improving problem-solving skills  
-🎯 Goal: To secure a Software Developmentjob  
+🎯 Goal: To secure a Software Development Job  
 🚀 Interests: Full Stack Development, Machine Learning (future goal)  
 📚 Currently exploring: Git, GitHub, APIs, and real-world projects  
 📫 Reach me: yashkadam472@gmail.com  
@@ -15,25 +15,24 @@
 
 ### 🚀 Tech Stack:
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github ,NodeJs,Express js,React, MongoDb,SQL ,Java, Canva, " />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,nodejs,express,react,mongodb,mysql" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YasH-KadaM-04&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🔥 Streak Stats:
 <p>
-  <img src="https://streak-stats.demolab.com/?user=YasH-KadaM-04 &theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=YasH-KadaM-04&theme=tokyonight" />
 </p>
 
-
-
+---
 
 ### 🛠️ Skills
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
@@ -41,16 +40,12 @@
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge)
 
-
-
-
+---
 
 ### 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge)](https://www.instagram.com/kadam_yash_04/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/yash-kadam9921/)
 
-
-
-
+---
 
 > "Code. Learn. Build. Repeat."
