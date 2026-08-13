@@ -8,7 +8,7 @@
 🎯 Goal: To secure a Software Development Job  
 🚀 Interests: Full Stack Development, Machine Learning (future goal)  
 📚 Currently exploring: Git, GitHub, APIs, and real-world projects  
-📫 Reach me: yashkadam472@gmail.com  
+📫 Reach me: yashkadam0213@gmail.com  
 ⚡ Fun fact: I enjoy playing chess and building things from scratch  
 
 ---
