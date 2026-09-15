@@ -1,5 +1,5 @@
 <h1 align="center"> Hello  I'm YasH Kadam</h1>
-<h3 align="center">A Passionate Developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate Developer from India</h3>
 
 ---
 
