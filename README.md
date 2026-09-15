@@ -13,11 +13,12 @@
 
 ---
 
-### 🚀 Tech Stack:
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github,nodejs,express,react,mongodb,mysql" />
-</p>
 
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,express,tailwind,mongodb,mysql,git,github,vscode,docker,npm" />
+</p>
 ---
 
 
