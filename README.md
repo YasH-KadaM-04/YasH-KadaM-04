@@ -8,7 +8,7 @@
 🎯 Goal: To secure a Software Development Job  
 🚀 Interests: Full Stack Development, Machine Learning (future goal)  
 📚 Currently exploring: Git, GitHub, APIs, and real-world projects  
-📫 Reach me: yashkadam0213@gmail.com  
+📫 Reach me: yashkadam472@gmail.com  
 ⚡ Fun fact: I enjoy playing chess and building things from scratch  
 
 ---
@@ -22,10 +22,13 @@
 ---
 
 
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YasH-KadaM-04&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasH-KadaM-04&layout=compact&theme=tokyonight" />
 </p>
 
 ### 🔥 Streak Stats:
