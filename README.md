@@ -22,11 +22,11 @@
 ---
 
 
-### 📊 GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YasH-KadaM-04&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YasH-KadaM-04&show_icons=true&theme=tokyonight" />
 </p>
----
 
 ### 🔥 Streak Stats:
 <p>
